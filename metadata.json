@@ -1,0 +1,8 @@
+{
+  "name": "Remix Planejador Pedagógico BNCC",
+  "description": "Gerador e editor inteligente de planos de aula e sequências didáticas alinhadas à BNCC para a Educação Básica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
